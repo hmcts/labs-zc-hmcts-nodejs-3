@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+  zc-hmcts-nodejs-3:
+    build:
+      context: .
+      args:
+        - http_proxy
+        - https_proxy
+        - no_proxy
+    ports:
+      - '8080:8080'
