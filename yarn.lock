@@ -4616,7 +4616,7 @@ __metadata:
     prettier: 2.8.7
     request: 2.88.2
     require-directory: 2.1.1
-    sass: 1.61.0
+    sass: 1.63.6
     sass-lint: 1.13.1
     sass-loader: 13.2.2
     serve-favicon: 2.5.0
@@ -13075,16 +13075,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sass@npm:1.61.0":
-  version: 1.61.0
-  resolution: "sass@npm:1.61.0"
+"sass@npm:1.63.6":
+  version: 1.63.6
+  resolution: "sass@npm:1.63.6"
   dependencies:
     chokidar: ">=3.0.0 <4.0.0"
     immutable: ^4.0.0
     source-map-js: ">=0.6.2 <2.0.0"
   bin:
     sass: sass.js
-  checksum: 31bfb3719f1bb1299bec7b8918bcbca77efa7328b8030cc8e665ed55a02bc5498a3e543b4eb0d06d55ceda8b2f5b2b3176f0678854a8277cb19a59addf65533f
+  checksum: 3372319904658eeafaf78a09a6fcb3368a68e6d76fe3c43c2d009f4f72e475ab22b82ef483ef5c00fcda3ab00066846c0bd88c36b42771b855f6ab80c7eda541
   languageName: node
   linkType: hard
 
